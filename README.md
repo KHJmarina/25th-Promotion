@@ -1,4 +1,4 @@
-# 25
+# 25th Promotion
 vs code로 만든 프론트엔드 개발자 웹 포트폴리오입니다.
 
 ## Install
