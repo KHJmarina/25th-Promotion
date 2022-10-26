@@ -20,21 +20,10 @@ vs code로 만든 프론트엔드 개발자 웹 포트폴리오입니다.
 
 - 포트폴리오 + 이력서
 - vs code와 css, javascript를 사용했습니다.
-- zeplin 디자인을 참고하여 front-end 작업 진행
+- bootscript 미디어쿼리
+- 반응형 웹페이지
+- zeplin 디자인을 바탕으로 front-end 작업 진행
 
 
 ## Skill
-> vue + tailwindCSS
-
-## Demo Video
-[![image](https://user-images.githubusercontent.com/26542929/89775359-973e7a00-db42-11ea-9943-2d57d54ff6a6.png)](https://i.imgur.com/pditetx.mp4)
-
-## 설명
-#### portflio
-└ 경력, 학력, 스킬, 프로젝트, 외부활동
-
-#### resume
-└ 경력사항, 교과외활동, 수상내역, 학력사항, 기타
-
-#### contact
-└ about me
+> VS code(html) + css + javascript
