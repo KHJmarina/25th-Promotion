@@ -8,7 +8,6 @@ vs code로 만든 프론트엔드 개발자 웹 포트폴리오입니다.
   1. VScode IDE 실행
   2. F1 -> SFTP : List All 입력 후 연결
   3. my-genomestory_test 폴더 선택
-
 ```
 
 ## Story
